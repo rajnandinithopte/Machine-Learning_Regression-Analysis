@@ -67,3 +67,7 @@ The following Python libraries were utilized for analysis and modeling:
 ### 🔶 7. Comparison of KNN and Linear Regression
 - Compared **test errors** between **KNN regression and multiple linear regression**.
 - Analyzed the performance of different models for power plant energy prediction.
+
+  ---
+## 📌 **Note**
+This repository contains a **Jupyter Notebook** detailing each step, along with **results and visualizations**.
